@@ -62,7 +62,7 @@ export default function HomePage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
           <div className="flex items-center justify-between">
             <div className="text-center flex-1">
-              <h1 className="text-4xl font-bold text-gray-900 mb-2">FactBuilder</h1>
+              <h1 className="text-4xl font-bold text-gray-900 mb-2">Fact Builder</h1>
               <p className="text-lg text-gray-600">Choose your quiz category and test your knowledge!</p>
             </div>
             <div className="flex items-center gap-2">
