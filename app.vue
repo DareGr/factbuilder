@@ -4,7 +4,7 @@
     <header class="bg-white shadow-sm border-b">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
         <div class="flex items-center justify-between">
-          <h1 class="text-2xl font-bold text-gray-900">FactBuilder</h1>
+          <h1 class="text-2xl font-bold text-gray-900">Fact Builder</h1>
           <button
             @click="showAddForm = !showAddForm"
             class="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-lg font-medium transition-colors"
